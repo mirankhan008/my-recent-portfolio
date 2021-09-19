@@ -1,6 +1,7 @@
 body{
 
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
 
 
 }
@@ -34,7 +35,14 @@ p{
 .color{
     padding: 10px 25px;
     border: 2px solid orange;
-    background-color: white; !important;
+    background-color: white !important;
     
     }
-}
+    .background-img{
+        
+        background-image: url("images/top-banner.png");
+        background-repeat: no-repeat;
+    }
+    section{
+        height:400px;
+    }
