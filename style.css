@@ -10,3 +10,9 @@ h1{
 .highlight{
     color: orange;
 }
+h3{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
