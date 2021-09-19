@@ -5,7 +5,7 @@ body{
 
 }
 h1{
-    font-size: 50px;
+    font-size: 40px;
 }
 .highlight{
     color: orange;
@@ -14,5 +14,7 @@ h3{
     font-size: 20px;
 }
 p{
-    font-size: 10px;
+    font-size: 14px;
+    font-style: justify;
+    
 }
