@@ -31,3 +31,10 @@ p{
     width: 100%;
     margin-top: 60px;
 }
+.color{
+    padding: 10px 25px;
+    border: 2px solid orange;
+    background-color: white; !important;
+    
+    }
+}
