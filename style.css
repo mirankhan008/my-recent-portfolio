@@ -5,16 +5,28 @@ body{
 
 }
 h1{
-    font-size: 40px;
+    font-size: 50px;
 }
 .highlight{
     color: orange;
 }
+h2{
+    font-size: 35px;
+}
 h3{
-    font-size: 20px;
+    font-size: 17px;
 }
 p{
     font-size: 14px;
     font-style: justify;
     
+}
+.half-box{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 4%;
+}
+.half-box img{
+    width: 120%;
 }
